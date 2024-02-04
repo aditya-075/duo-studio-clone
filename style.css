@@ -87,16 +87,16 @@ html,body{
     background-color:whitesmoke;
 }
 .page1 h1{
-    font-size: 7vw;
+    font-size: 7.3vw;
     font-weight: 300;
-    /*font-family: PP mori;*/
+    font-family: PP mori;
     margin-left: 6vw;
 }
 .page1 h2{
     font-size: 7vw;
     font-weight: 300;
     margin-left: 30vw;
-    /*font-family: PP mori;*/
+    font-family: PP mori;
 }
 .page1 video{
     width:60%; 
